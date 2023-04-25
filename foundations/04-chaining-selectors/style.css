@@ -1,0 +1,12 @@
+/* Classes to use 
+    proportioned and distorted, common element is 'avatar' */
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;    /* 'auto' retains original proportion */
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
